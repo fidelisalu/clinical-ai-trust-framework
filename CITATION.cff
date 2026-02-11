@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Clinical AI Trust Framework (CATF)"
+message: "If you use this framework in research or product evaluation, please cite it."
+type: software
+authors:
+  - family-names: "Alu"
+    given-names: "Fidelis"
+version: 0.1.0
+date-released: 2026-02-11
+license: MIT
